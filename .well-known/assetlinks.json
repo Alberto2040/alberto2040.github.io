@@ -5,7 +5,7 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.jvvvl.netrox_ia",
+      "package_name": "com.jvvvl.netrox-ia",
       "sha256_cert_fingerprints": [
         "5C:0C:39:7E:F1:20:E5:D5:65:A1:BB:AA:AC:F0:9C:EE:CD:FE:C2:44:2D:4E:FC:90:CC:EC:E7:27:4A:70:03:F9"
       ]
